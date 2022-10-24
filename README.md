@@ -1,7 +1,6 @@
 # DSA Linked List Exercise
 
-
-**NOTE:** This is a GitHub Classroom assignment! You need to use the invite URL that was provided to you to get a customized repo. 
+> :warning: This is a GitHub Classroom assignment! You need to use the invite URL that was provided to you to get a customized repo. 
 
 
 This exercise is written in Java, and tested with Gradle/JUnit.
